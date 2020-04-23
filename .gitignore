@@ -1,0 +1,4 @@
+gifsearch/
+node_modules/
+
+*.env
